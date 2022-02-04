@@ -1,0 +1,4 @@
+pandas
+python-escpos
+adafruit-circuitpython-fingerprint
+pyserial
