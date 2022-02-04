@@ -1,0 +1,13 @@
+- Raspberry pi-3
+
+- An ESC/POS printer compatible with esc-pos library:
+https://github.com/python-escpos/python-escpos
+
+- Fingerprint sensor: ZFM-20
+https://www.adafruit.com/product/751
+
+- Some case for the sensor like:
+https://www.thingiverse.com/thing:3594640
+
+- A buzzer like this:
+https://www.adafruit.com/product/1536

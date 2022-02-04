@@ -1,0 +1,7 @@
+CiCo - Clock in Clock out
+
+Before using, you must configure files at /CiCo/CiCo and /CiCo/CiCo Reports
+Check the readme's at each folder
+
+More info here:
+https://github.com/mario-correa/CiCo
